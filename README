@@ -1,8 +1,8 @@
 
 Edith Flores
-CPS222 Project 1
+Project 1, RSA Algorithm for Encryption/Decryption
 
-Files Submitted:
+Files Included:
 ReallyLongInt.cpp
 ReallyLongInt.hpp
 numberTheory.tpp
@@ -14,8 +14,7 @@ numberTheory_TEST.cpp
 ReallyLongInt_TEST.cpp
 catch.hpp
 Makefile
-readme.txt
-Homework Cover Sheet Proj1.pdf
+README
 
 
 This project contains one main program with many components.
@@ -45,3 +44,5 @@ Description:
 The decrypt program takes the PrivateKey File and read the two keys required.Decrypt then reads the Encrypted File. As the Encrypted File text is read one numbe at a time, each number is decrypted and written on to the Decrypted File created (Original Text).
 Known issues:
 -None that I know of.
+
+#Additional Files were made as basic approaches or practice approaches.
